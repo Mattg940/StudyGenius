@@ -1,0 +1,11 @@
+{
+	"app.title": "Study Genius",
+	"app.tagline": "Все в одном: ИИ-репетитор, чат, задания",
+	"onboarding.chooseRole": "Выберите роль",
+	"onboarding.getStarted": "Начать",
+	"nav.chat": "Чат",
+	"nav.classes": "Классы",
+	"nav.assignments": "Задания",
+	"nav.leaderboard": "Таблица лидеров",
+	"auth.signIn": "Войти"
+}

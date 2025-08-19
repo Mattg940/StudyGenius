@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "ESNext",
+    "moduleResolution": "Bundler",
+    "resolveJsonModule": true,
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "noFallthroughCasesInSwitch": true,
+    "noUncheckedIndexedAccess": true,
+    "baseUrl": ".",
+    "paths": {
+      "@study-genius/ui": ["packages/ui/src"],
+      "@study-genius/types": ["packages/types/src"],
+      "@study-genius/utils": ["packages/utils/src"],
+      "@study-genius/ai-prompts": ["packages/ai-prompts"],
+      "@study-genius/i18n": ["packages/i18n/src"]
+    }
+  },
+  "exclude": ["node_modules", "dist", "build", ".next"]
+}
+

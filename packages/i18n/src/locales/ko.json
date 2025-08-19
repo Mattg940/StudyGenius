@@ -1,0 +1,11 @@
+{
+	"app.title": "Study Genius",
+	"app.tagline": "올인원: AI 튜터, 채팅, 과제",
+	"onboarding.chooseRole": "역할 선택",
+	"onboarding.getStarted": "시작하기",
+	"nav.chat": "채팅",
+	"nav.classes": "클래스",
+	"nav.assignments": "과제",
+	"nav.leaderboard": "리더보드",
+	"auth.signIn": "로그인"
+}

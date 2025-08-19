@@ -1,0 +1,11 @@
+{
+	"app.title": "Study Genius",
+	"app.tagline": "Todo en uno: tutor IA, chat, tareas",
+	"onboarding.chooseRole": "Elige tu rol",
+	"onboarding.getStarted": "Comenzar",
+	"nav.chat": "Chat",
+	"nav.classes": "Clases",
+	"nav.assignments": "Tareas",
+	"nav.leaderboard": "Clasificación",
+	"auth.signIn": "Iniciar sesión"
+}

@@ -1,0 +1,11 @@
+{
+	"app.title": "Study Genius",
+	"app.tagline": "Serba ada: tutor AI, chat, tugas",
+	"onboarding.chooseRole": "Pilih peran Anda",
+	"onboarding.getStarted": "Mulai",
+	"nav.chat": "Obrolan",
+	"nav.classes": "Kelas",
+	"nav.assignments": "Tugas",
+	"nav.leaderboard": "Papan Peringkat",
+	"auth.signIn": "Masuk"
+}

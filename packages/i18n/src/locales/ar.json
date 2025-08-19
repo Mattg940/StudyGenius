@@ -1,0 +1,11 @@
+{
+	"app.title": "Study Genius",
+	"app.tagline": "الكل في واحد: معلم بالذكاء الاصطناعي، الدردشة، الواجبات",
+	"onboarding.chooseRole": "اختر دورك",
+	"onboarding.getStarted": "ابدأ",
+	"nav.chat": "دردشة",
+	"nav.classes": "صفوف",
+	"nav.assignments": "واجبات",
+	"nav.leaderboard": "لائحة المتصدرين",
+	"auth.signIn": "تسجيل الدخول"
+}

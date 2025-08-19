@@ -1,0 +1,11 @@
+{
+	"app.title": "Study Genius",
+	"app.tagline": "オールインワン：AIチューター、チャット、課題",
+	"onboarding.chooseRole": "役割を選択",
+	"onboarding.getStarted": "はじめる",
+	"nav.chat": "チャット",
+	"nav.classes": "クラス",
+	"nav.assignments": "課題",
+	"nav.leaderboard": "ランキング",
+	"auth.signIn": "ログイン"
+}

@@ -1,0 +1,11 @@
+{
+	"app.title": "Study Genius",
+	"app.tagline": "一体化：AI 导师、聊天、作业",
+	"onboarding.chooseRole": "选择你的角色",
+	"onboarding.getStarted": "开始",
+	"nav.chat": "聊天",
+	"nav.classes": "班级",
+	"nav.assignments": "作业",
+	"nav.leaderboard": "排行榜",
+	"auth.signIn": "登录"
+}

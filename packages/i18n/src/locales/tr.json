@@ -1,0 +1,11 @@
+{
+	"app.title": "Study Genius",
+	"app.tagline": "Hepsi bir arada: Yapay zeka eğitmeni, sohbet, ödevler",
+	"onboarding.chooseRole": "Rolünü seç",
+	"onboarding.getStarted": "Başla",
+	"nav.chat": "Sohbet",
+	"nav.classes": "Sınıflar",
+	"nav.assignments": "Ödevler",
+	"nav.leaderboard": "Liderlik Tablosu",
+	"auth.signIn": "Giriş yap"
+}

@@ -1,0 +1,9 @@
+{
+	"name": "Study Genius",
+	"short_name": "StudyGenius",
+	"start_url": "/",
+	"display": "standalone",
+	"background_color": "#ffffff",
+	"theme_color": "#2563eb",
+	"icons": []
+}
