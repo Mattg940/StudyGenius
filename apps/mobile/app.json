@@ -1,0 +1,22 @@
+{
+	"expo": {
+		"name": "Study Genius",
+		"slug": "study-genius",
+		"scheme": "studygenius",
+		"owner": "",
+		"version": "0.1.0",
+		"orientation": "portrait",
+		"icon": "./assets/icon.png",
+		"splash": {
+			"image": "./assets/splash.png",
+			"resizeMode": "contain",
+			"backgroundColor": "#ffffff"
+		},
+		"ios": { "supportsTablet": true },
+		"android": {
+			"adaptiveIcon": { "foregroundImage": "./assets/adaptive-icon.png", "backgroundColor": "#ffffff" }
+		},
+		"plugins": ["expo-router"],
+		"experiments": { "typedRoutes": true }
+	}
+}

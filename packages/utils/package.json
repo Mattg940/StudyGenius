@@ -1,0 +1,26 @@
+{
+	"name": "@study-genius/utils",
+	"version": "0.1.0",
+	"private": true,
+	"type": "module",
+	"main": "dist/index.js",
+	"types": "dist/index.d.ts",
+	"files": [
+		"dist"
+	],
+	"scripts": {
+		"build": "tsc -p tsconfig.json",
+		"dev": "tsc -w -p tsconfig.json",
+		"lint": "eslint .",
+		"typecheck": "tsc -p tsconfig.json --noEmit"
+	},
+	"dependencies": {
+		"zod": "^3.23.8",
+		"firebase-admin": "^12.6.0",
+		"firebase": "^10.13.1",
+		"dayjs": "^1.11.12"
+	},
+	"devDependencies": {
+		"typescript": "^5.5.4"
+	}
+}

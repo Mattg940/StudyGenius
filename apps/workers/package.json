@@ -1,0 +1,20 @@
+{
+	"name": "@study-genius/workers",
+	"version": "0.1.0",
+	"private": true,
+	"type": "module",
+	"scripts": {
+		"dev": "node --watch src/index.js",
+		"build": "echo 'No build step for simple workers'",
+		"start": "node src/index.js",
+		"test": "jest --passWithNoTests"
+	},
+	"dependencies": {
+		"firebase-admin": "^12.6.0",
+		"ioredis": "^5.4.1",
+		"node-fetch": "^3.3.2"
+	},
+	"devDependencies": {
+		"jest": "^29.7.0"
+	}
+}
