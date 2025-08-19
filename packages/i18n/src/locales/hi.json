@@ -1,0 +1,11 @@
+{
+	"app.title": "Study Genius",
+	"app.tagline": "सब एक में: एआई ट्यूटर, चैट, असाइनमेंट",
+	"onboarding.chooseRole": "अपनी भूमिका चुनें",
+	"onboarding.getStarted": "शुरू करें",
+	"nav.chat": "चैट",
+	"nav.classes": "कक्षा",
+	"nav.assignments": "असाइनमेंट",
+	"nav.leaderboard": "लीडरबोर्ड",
+	"auth.signIn": "साइन इन"
+}

@@ -1,0 +1,11 @@
+{
+	"app.title": "Study Genius",
+	"app.tagline": "Tất cả trong một: gia sư AI, trò chuyện, bài tập",
+	"onboarding.chooseRole": "Chọn vai trò",
+	"onboarding.getStarted": "Bắt đầu",
+	"nav.chat": "Trò chuyện",
+	"nav.classes": "Lớp học",
+	"nav.assignments": "Bài tập",
+	"nav.leaderboard": "Bảng xếp hạng",
+	"auth.signIn": "Đăng nhập"
+}
